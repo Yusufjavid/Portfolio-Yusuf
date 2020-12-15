@@ -32,6 +32,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following Image demonstrates the application functionality:
 
-![](./002.Portfolio/Main/images/Demo.jpg)
+![](./Main/images/Demo.jpg)
 
 
